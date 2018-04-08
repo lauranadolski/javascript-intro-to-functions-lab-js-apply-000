@@ -14,10 +14,14 @@ function whisper (string) {
   
 }
 
+// logShout(string) takes a string as input and console logs said
+// string back to the user in all caps.
 function logShout(string){
   
 }
 
+// logShout(string) takes a string as input and console logs said
+// string back to the user in all caps.
 function logWhisper(string) {
   
 }
@@ -25,3 +29,4 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   
 }
+
