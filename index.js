@@ -17,13 +17,13 @@ function whisper (string) {
 // logShout(string) takes a string as input and console logs said
 // string back to the user in all caps.
 function logShout(string){
-  console.log shout(string);
+  console.log(shout(string));
 }
 
 // logShout(string) takes a string as input and console logs said
 // string back to the user in all lowercase.
 function logWhisper(string) {
-  
+  console.log(whisper(string))
 }
 
 // sayHiToGrandma(string) takes a string as input and returns
