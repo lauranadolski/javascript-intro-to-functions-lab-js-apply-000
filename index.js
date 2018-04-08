@@ -5,13 +5,13 @@
 // shout(string) takes a string as input and returns said
 // string back to the user in all caps.
 function shout (string) {
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 
 // whisper(string) takes a string as input and returns said
 // string back to the user in all lowercase.
 function whisper (string) {
-  
+  return string.toLowerCase();  
 }
 
 // logShout(string) takes a string as input and console logs said
