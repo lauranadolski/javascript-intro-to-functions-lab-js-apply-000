@@ -23,13 +23,14 @@ function logShout(string){
 // logShout(string) takes a string as input and console logs said
 // string back to the user in all lowercase.
 function logWhisper(string) {
-  console.log(whisper(string))
+  console.log(whisper(string));
 }
 
 // sayHiToGrandma(string) takes a string as input and returns
 // a specific response based on whether the input string is
 // lowercase, uppercase, or "I love you, Grandma."
 function sayHiToGrandma(string) {
+  if string === whisper(string)
   
 }
 
