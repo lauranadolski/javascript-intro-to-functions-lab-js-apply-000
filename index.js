@@ -30,7 +30,9 @@ function logWhisper(string) {
 // a specific response based on whether the input string is
 // lowercase, uppercase, or "I love you, Grandma."
 function sayHiToGrandma(string) {
-  if string === whisper(string)
+  if (string === whisper(string)) {
+    
+  }
   
 }
 
