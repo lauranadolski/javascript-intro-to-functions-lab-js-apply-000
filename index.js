@@ -21,11 +21,13 @@ function logShout(string){
 }
 
 // logShout(string) takes a string as input and console logs said
-// string back to the user in all caps.
+// string back to the user in all lowercase.
 function logWhisper(string) {
   
 }
 
+// (string) takes a string as input and console logs said
+// string back to the user in all lowercase.
 function sayHiToGrandma(string) {
   
 }
