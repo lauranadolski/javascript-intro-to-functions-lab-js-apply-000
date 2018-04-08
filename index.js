@@ -8,8 +8,8 @@ function shout (string) {
   
 }
 
-// shout(string) takes a string as input and returns said
-// string back to the user in all caps.
+// whisper(string) takes a string as input and returns said
+// string back to the user in all lowercase.
 function whisper (string) {
   
 }
